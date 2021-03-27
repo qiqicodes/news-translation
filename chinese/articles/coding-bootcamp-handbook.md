@@ -1,40 +1,40 @@
-> -   原文地址：[The Coding Bootcamp Handbook: How Do Bootcamps Work and Are They Right for You?](https://www.freecodecamp.org/news/coding-bootcamp-handbook/)
+> -   原文地址：[编码训练营手册：训练营如何运作，它们是否适合你？](https://www.freecodecamp.org/news/coding-bootcamp-handbook/)
 > -   原文作者：[Quincy Larson](https://www.freecodecamp.org/news/author/quincylarson/)
 > -   译者：
 > -   校对者：
 
-![The Coding Bootcamp Handbook: How Do Bootcamps Work and Are They Right for You?](https://www.freecodecamp.org/news/content/images/size/w2000/2019/08/If-you-dream-it--you-can-do-it--1-.png)
+![编码训练营手册：训练营如何运作，它们是否适合你？](https://www.freecodecamp.org/news/content/images/size/w2000/2019/08/If-you-dream-it--you-can-do-it--1-.png)
 
-Before you spend thousands of dollars and several months of your life on a coding bootcamp, spend 30 minutes reading this handbook.
+在你花费数千美元和几个月的时间在编码训练营之前，花30分钟阅读这本手册。
 
-# Who is this handbook for
+# 这本手册为谁而写
 
--   Anyone considering attending a bootcamp
--   Any developer considering founding a bootcamp or teaching at one
--   Any journalist writing about bootcamps
+-   任何正在考虑参加训练营的人
+-   任何正在考虑创建训练营或想在训练营教书的开发者
+-   任何正在写有关训练营的记者
 
-# For the people who think they're too busy to read this handbook
+# 对于那些认为自己太忙而没有时间阅读这本手册的人
 
-My advice to you boils down to this: **Do your research**.
+我给你的建议可以归结为: **做属于你的研究**。
 
-**Apply for lots of developer jobs first.** Go through some job interviews. You may be able to get a developer job without needing to attend a bootcamp.
+**首先申请大量的开发人员职位。** 经历一些工作面试。也许你不需要参加训练营就能找到一份开发人员的工作。
 
-**Don't blindly trust bootcamps' testimonials or employment statistics.** Use LinkedIn to reach out to their alumni directly.
+**不要盲目相信训练营的客户好评或就业统计数据。** 使用LinkedIn直接联系他们的毕业生。
 
-**Prepare yourself.** Make sure you have enough money. If you're ready to enroll, make sure you have enough cash to pay tuition. And make sure you have enough cash to survive during the bootcamp, and for 6 months after while you apply for jobs.
+**做好准备。** 确保你有足够的现金。如果你正准备注册，请确保你有足够的现金支付学费。并确保你有足够的现金在训练营期间以及之后6个月的求职时期生存。
 
-**Bootcamps aren't magic.** Bootcamps can only help prepare you. _You_ have to learn everything. _You_ have to go through the developer job interview process. _You_ have to put in the work.
+**训练营不是魔法。** 训练营只能帮你做就业准备。 _你_ 必须学习一切。 _你_ 必须经历开发人员职位的面试过程。 _你_ 必须坚持并全力以赴。
 
-# A note on objectivity
+# 关于客观性的注记
 
-I've designed this handbook to be as objective as possible. To this end, **I do not mention any bootcamps or their founders by name.** I do not link to any of their websites.
+我尽可能客观地设计此手册。为此，**我没有提及任何训练营或其创建者的名字。** 我没有链接到他们的网站。
 
-I didn't write this handbook to help bootcamps. I wrote this handbook to help you.
+我不是为帮助训练营而写这本手册。我写了这本手册为了帮助你。
 
-As the teacher who founded freeCodeCamp, I am in a unique position to write about bootcamps for three reasons:
+作为创建freeCodeCamp的老师，我处于一个独特的位置来写训练营，原因有三:
 
-1.  A lot of bootcamps use freeCodeCamp for their curriculum and course prepwork. I've helped coach a lot of bootcamp founders on how to prepare people for developer careers.
-2.  I learned to code in San Francisco in the early 2010's, when bootcamps first came onto the scene. I didn't attend a bootcamp, but I hung out with many bootcamp founders and attended student "demo days."
+1.  许多训练营的课程及课程准备工作中使用freeCodeCamp。我指导了许多训练营的创始人去如何准备并开启开发人员的职业生涯。
+2.  2010年初，我在旧金山学习编码，那时编码训练营率先问世。我没有参加训练营，但我常常与许多训练营的创始人在一起并参加了他们的学生“演示日”。
 3.  Over the past 3 years, I've conducted significant primary research. I've published [several datasets][1] containing responses from thousands of bootcamp alumni.
 
 freeCodeCamp's mission is to help as many people learn to code as possible. Bootcamps help a lot of people accomplish this. So they are helping freeCodeCamp in our mission.
