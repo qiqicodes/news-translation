@@ -35,31 +35,32 @@
 
 1.  许多训练营的课程及课程准备工作中使用freeCodeCamp。我指导了许多训练营的创始人去如何准备并开启开发人员的职业生涯。
 2.  2010年初，我在旧金山学习编码，那时编码训练营率先问世。我没有参加训练营，但我常常与许多训练营的创始人在一起并参加了他们的学生“演示日”。
-3.  Over the past 3 years, I've conducted significant primary research. I've published [several datasets][1] containing responses from thousands of bootcamp alumni.
+3.  在过去的3年里，我进行了重要的初步研究。我发布了[几个数据集][1] 其中包含了数千名训练营毕业生的回应。
 
-freeCodeCamp's mission is to help as many people learn to code as possible. Bootcamps help a lot of people accomplish this. So they are helping freeCodeCamp in our mission.
+freeCodeCamp的使命是尽可能帮助更多的人学会编码。训练营帮助许多人实现这一点。他们正在帮助我们执行freeCodeCamp的任务。
 
 This said, freeCodeCamp has never received any compensation from bootcamps. Several of the big bootcamp chains have approached us about sponsorship. We have always refused.
+也就是说，freeCodeCamp从未从任何训练营获得任何补偿。几家大型训练营连锁企业常与我们联系有意愿赞助我们。我们却一直拒绝。 
 
-# Why did I write this handbook
+# 我为什么要写这本手册
 
-When you Google "coding bootcamp" or "coding bootcamps in \[city name\]", you find a lot of bootcamp review websites. But there are fundamental problems with these review sites.
+当你搜索“编码训练营”或“\[城市名\]的编码训练营”时，你会发现很多训练营评论网站。但是这些评论网站存在一些根本性的问题。
 
-First, these review sites are sponsored by the bootcamps themselves. Bootcamps pay for advertisements. They pay to rank higher in the search results. They pay for "paid placement" blog articles, op-eds, and other publicity.
+首先，这些评论网站是由训练营自身赞助的。训练营支付广告费用。他们付费为了在搜索结果中排名更靠前。他们为了博客文章的“展示位置”，社论与其他宣传付费。
 
-This is a conflict of interest.
+这是公私利益冲突。
 
-Second, many of the reviews on these sites were coerced. I've heard stories from graduates of several bootcamps who were pressured to leave positive reviews. In some cases, bootcamps made students write reviews as a mandatory in-class activity.
+其次，在这些网站上许多评论都是被迫好评。我从一些训练营的毕业生那里听闻一些关于他们被迫留下正面评价的故事。在一些训练营，训练营使学生写评论作为一项强制性的课堂活动。
 
-There are also a lot of fake reviews written by marketing departments.
+还有很多市场营销部门撰写了很多虚假评论。
 
-It's impossible to know which bootcamps are playing by the rules and which are cheating. So all that these review sites accomplish is to help cheaters drown out the more ethical bootcamps.
+根本不可能知道哪些训练营在按规则玩，哪些在作弊。所以这些评论网站只是在帮助作弊者淹没具有道德观念的训练营。
 
-Instead of relying on websites full of dubious reviews, you should think for yourself. There are no shortcuts to making a decision this important.
+与其依赖充满可疑评论的网站，不如为自己考量。做出如此重要的决定是没有捷径的。
 
-> "The #1 marker of quality of a bootcamp is how hard it is to get in. Online reviews are completely and 100% gamed. Job placement statistics are also ruthlessly gamed. The only thing that's ungameable by a bootcamp is how hard it is to get in." - one of the former bootcamp managers I talked to while researching this handbook
+> “集训营质量的第一标识是进入营的难度。网上评论是完全是百分百的游戏。就业安置统计数据也被无情地博弈。训练营唯一无法博弈的是入营的难度。”- 在研究这本手册时，录用一位前训练营经理的话
 
-This handbook will give you a framework you can use to understand how bootcamps work. It will help you research your options and plan the path to your first developer job.
+这本手册会给你一个框架，你可以用它来理解训练营是如何运作的。在你研究你的选项它将助你一臂之力，并规划你第一份开发工作道路。
 
 # What exactly is a bootcamp
 
@@ -753,23 +754,23 @@ Imagine a school with nonstop internships, where you work in your desired field.
 
 There are already programs like this in Europe. And over here in the US - well, we can dream, can't we?
 
-# What are your final words of advice
+# 最后的建议是什么
 
-Your developer job search will come down to 3 things:
+你的开发求职将归结为三点:
 
-1.  Your skills
-2.  Your reputation
-3.  Your network
+1.  你的技能
+2.  你的名声
+3.  你的人际网络
 
-Don't make the mistake of focusing on only one or two of these. Think about ways you can build all three at the same time.
+不要犯只关注其中一两个方面的错误。想想你怎样可以同时构建这三个方面的方法。
 
-Going to a bootcamp can be the best decision you ever made. Or it can be an awkward financial setback.
+去训练营可能是你做过的最好的决定。也可能是一次尴尬的财务挫折。
 
-Do your research. Save up your money. Learn coding fundamentals first.
+做你的研究。存钱。先学习编码基础。
 
-Bootcamps aren't magic. They aren't going to do the work for you.
+训练营不是魔法。他们不会做你的学习或工作。
 
-In the end, the experience is what you make of it. So make the most of it.
+最终，体验的价值取决于你如何运用它。所以要充分地体验。
 
 [1]: https://www.kaggle.com/freecodecamp/datasets
 [2]: https://images.unsplash.com/photo-1519241047957-be31d7379a5d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ%22
